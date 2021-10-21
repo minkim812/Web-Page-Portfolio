@@ -1,0 +1,68 @@
+body{
+  background-color: #CECAC5;
+}
+
+header {
+  background-color: #F4E9E2;
+}
+
+header h1 {
+margin: 0;
+color: #7A5858;
+font-family: 'Times New Roman', Times, serif;
+font-size: 55px;
+text-align: center;
+padding: 60px 0 20px 20px;
+}
+
+header p {
+color: #7A5858;
+font-family: 'Times New Roman', Times, serif;
+font-size: 20px;
+text-align: center;
+}
+
+main h2{
+  color: #3D3D3D;
+  font-family: 'Times New Roman', 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+main h3{
+  color: #3D3D3D;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+main h4{
+  color: #3D3D3D;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+footer p{
+  color: black;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  text-align: right;  
+}
+
+/* adding psuedo classes to my links*/
+a:link{
+  color: blue;
+}
+
+a:visited{
+  color: purple;
+}
+
+a:hover{
+  color: green;
+}
+
+a:active{
+  color: pink;
+}
